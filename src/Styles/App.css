@@ -1,0 +1,5 @@
+@import url("./Home");
+@import url("./NavBar");
+.Screen {
+  display: flex;
+}
