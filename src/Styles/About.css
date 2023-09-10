@@ -1,0 +1,79 @@
+.About {
+  width: 74%;
+  height: 100vh;
+  background-color: #34353a;
+  overflow-y: auto;
+}
+.aboutTitleText {
+  width: 80px;
+  height: 35px;
+  text-align: center;
+  padding-top: 8px;
+  font-size: 10pt;
+  color: #959595;
+  background-color: #3c3d42;
+}
+.MainTitle {
+  width: 100%;
+  height: 30%;
+  color: white;
+  font-size: 22pt;
+  font-weight: 800;
+  margin: 20px 0;
+}
+.aboutContainer {
+  margin: 0 auto;
+  width: 1000px;
+  padding: 50px;
+  padding-bottom: 0;
+  margin-top: 50px;
+}
+.aboutAuthor {
+  background-color: #34353a;
+}
+.MyPicture {
+  width: 100%;
+  height: 500px;
+}
+.aboutAuthorContainer {
+  width: 100%;
+  height: 1100px;
+}
+.aboutHorizontal {
+  border-bottom: 1px solid grey;
+}
+.subSkills {
+  padding: 25px 0;
+}
+.aboutData {
+  width: 100%;
+  display: flex;
+  margin: 25px 0;
+  justify-content: space-between;
+}
+.aboutright {
+  width: 45%;
+}
+.aboutLeft {
+  width: 45%;
+}
+.column {
+  display: flex;
+  width: 100%;
+  padding: 5px 0;
+}
+.aboutDataTitels {
+  color: white;
+  font-weight: 200;
+  font-size: 12pt;
+  text-decoration: none;
+  padding: 5px 0;
+  width: 200px;
+}
+.aboutDatas {
+  color: rgb(182, 182, 182);
+  font-weight: 200;
+  font-size: 12pt;
+  text-decoration: none;
+  padding: 5px 0;
+}

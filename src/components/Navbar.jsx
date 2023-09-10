@@ -9,6 +9,9 @@ export default function Navbar() {
           <NavLink to="/About">About</NavLink>
           <NavLink to="/Service">Service</NavLink>
           <NavLink to="/Portfolio">Portfolio</NavLink>
+          <NavLink className="BuyMeCoffee" to="/BuyMeCoffee">
+            Buy Me Coffee
+          </NavLink>
           <div className="creator">
             <br />
             Created by Akaikumogo

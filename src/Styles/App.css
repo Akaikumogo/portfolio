@@ -1,5 +1,7 @@
 @import url("./Home");
 @import url("./NavBar");
+@import url("./About.css");
 .Screen {
   display: flex;
+  overflow-x: auto;
 }
