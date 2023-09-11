@@ -1,15 +1,17 @@
+import { Link } from "react-router-dom";
 import coffee from "../images/coffee.gif";
 export default function BuyMeCoffee() {
   return (
     <div className="buyMeCoffeePage">
       <div className="buyMeCoffeContainer">
         <img className="cofegif" src={coffee} alt="" />
-        <a
+
+        <Link
           className="clickMe"
-          href="https://www.buymeacoffee.com/SarverbekXazratov"
+          to="https://www.buymeacoffee.com/SarverbekXazratov"
         >
           Click Me
-        </a>
+        </Link>
       </div>
     </div>
   );
