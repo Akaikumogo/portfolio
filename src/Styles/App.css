@@ -1,6 +1,7 @@
 @import url("./Home");
 @import url("./NavBar");
 @import url("./About.css");
+@import url("./Buymecoffee.css");
 .Screen {
   display: flex;
   overflow-x: auto;

@@ -32,23 +32,3 @@ a.active {
 ::-webkit-scrollbar {
   display: none;
 }
-
-.BuyMeCoffee {
-  width: 140px;
-  color: #050505;
-  padding: 5px 16px 5px 0;
-  border-radius: 5px 24px 24px 5px;
-  background-color: #fffb00;
-  text-decoration: none;
-  font-weight: 900;
-  transition: 1000ms all;
-  margin-top: 10px;
-}
-
-.BuyMeCoffee:hover {
-  color: #c7c7c7;
-  padding: 5px 16px 5px 5px;
-  width: 210px;
-  letter-spacing: 5px;
-  background-color: rgb(61, 61, 61);
-}
