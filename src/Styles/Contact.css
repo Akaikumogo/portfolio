@@ -1,0 +1,41 @@
+.Contact {
+  width: 74%;
+  height: 664px;
+  background-color: #34353a;
+  padding: 50px;
+}
+.contactContrainer {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.contactData {
+  color: white;
+}
+.contactNumnber {
+  color: white;
+  height: 30px;
+  margin: 50px 0 0 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.contactEmail {
+  display: flex;
+  flex-direction: column;
+  width: 30px;
+}
+.contactGithub {
+  width: 100%;
+  height: 15px;
+  margin-bottom: -150px;
+}
+.telegram {
+  width: 100%;
+  height: 15px;
+  margin-bottom: 150px;
+}

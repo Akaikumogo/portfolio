@@ -9,7 +9,9 @@
   transition: 1000ms all;
   margin-top: 10px;
 }
-
+.BuyMeCoffee.active {
+  color: #050505;
+}
 .BuyMeCoffee:hover {
   color: #c7c7c7;
   padding: 5px 16px 5px 5px;
